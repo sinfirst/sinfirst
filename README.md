@@ -6,9 +6,11 @@ Go backend developer из Москвы.
 
 ## Коммерческий опыт
 
-Сейчас занимаюсь бэкендом гостевого приложения для отелей **Telier** ([сайт](https://telier.ru/), [веб-приложение](https://app.telier.ru/)) в компании [Rint Group](https://rint.group/). Сервис на Go, с PostgreSQL, REST API и Swagger, CI и интеграциями с PMS и POS.
+Работаю в [Rint Group](https://rint.group/) над двумя проектами компании.
 
-Параллельно работаю над IoT-платформой **Indoor** ([сайт](https://indoor-tech.ru/)): бэкенд на Go для умных хабов, регистрация устройств, MQTT (Mosquitto Dynamic Security) и обработка событий, в том числе от ML-модели.
+Сейчас занимаюсь бэкендом гостевого приложения для отелей **Telier** ([сайт](https://telier.ru/), [веб-приложение](https://app.telier.ru/)). Сервис на Go, с PostgreSQL, REST API и Swagger, CI и интеграциями с PMS и POS.
+
+Также работаю над IoT-платформой **Indoor** ([сайт](https://indoor-tech.ru/)): бэкенд на Go для умных хабов, регистрация устройств, MQTT (Mosquitto Dynamic Security) и обработка событий, в том числе от ML-модели.
 
 ## Стек
 
