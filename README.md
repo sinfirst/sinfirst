@@ -27,9 +27,9 @@ Go backend developer из Москвы.
 
 ## Проекты курса «Продвинутый Go-разработчик» (Яндекс Практикум)
 
-- [URL-Cutter](https://github.com/sinfirst/URL-Cutter): сервис сокращения ссылок: HTTP и gRPC, хранение в памяти, файле или PostgreSQL, асинхронное удаление и свой staticlint.
+- [URL-Cutter](https://github.com/sinfirst/URL-Cutter): сервис сокращения ссылок на HTTP и gRPC, хранение в памяти, файле или PostgreSQL, асинхронное удаление и свой staticlint.
 - [GophKeeper](https://github.com/sinfirst/GophKeeper): клиент-серверное хранилище паролей, заметок, файлов и данных карт на gRPC с TUI-клиентом и PostgreSQL.
-- [Ref-System](https://github.com/sinfirst/Ref-System): накопительная система лояльности «Гофермарт»: заказы, начисление баллов через внешний сервис и списание, JWT и PostgreSQL.
+- [Ref-System](https://github.com/sinfirst/Ref-System): накопительная система лояльности «Гофермарт»: заказы, начисление и списание баллов через внешний сервис, JWT и PostgreSQL.
 
 ## Контакты
 
