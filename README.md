@@ -6,9 +6,9 @@ Go backend developer из Москвы.
 
 ## Коммерческий опыт
 
-Сейчас занимаюсь бэкендом гостевого приложения для отелей **Telier**. Сервис на Go, с PostgreSQL, REST API и Swagger, CI и интеграциями с PMS и POS.
+Сейчас занимаюсь бэкендом гостевого приложения для отелей **Telier** ([сайт](https://telier.ru/), [веб-приложение](https://app.telier.ru/)) в компании [Rint Group](https://rint.group/). Сервис на Go, с PostgreSQL, REST API и Swagger, CI и интеграциями с PMS и POS.
 
-Параллельно работаю над IoT-платформой **Indoor**: бэкенд на Go для умных хабов, регистрация устройств, MQTT (Mosquitto Dynamic Security) и обработка событий, в том числе от ML-модели.
+Параллельно работаю над IoT-платформой **Indoor** ([сайт](https://indoor-tech.ru/)): бэкенд на Go для умных хабов, регистрация устройств, MQTT (Mosquitto Dynamic Security) и обработка событий, в том числе от ML-модели.
 
 ## Стек
 
@@ -27,12 +27,12 @@ Go backend developer из Москвы.
 
 ## Проекты курса «Продвинутый Go-разработчик» (Яндекс Практикум)
 
-- [URL-Cutter](https://github.com/sinfirst/URL-Cutter) — сервис сокращения ссылок: HTTP и gRPC, хранение в памяти, файле или PostgreSQL, асинхронное удаление и свой staticlint.
-- [GophKeeper](https://github.com/sinfirst/GophKeeper) — клиент-серверное хранилище паролей, заметок, файлов и данных карт на gRPC с TUI-клиентом и PostgreSQL.
-- [Ref-System](https://github.com/sinfirst/Ref-System) — накопительная система лояльности «Гофермарт»: заказы, начисление баллов через внешний сервис и списание, JWT и PostgreSQL.
+- [URL-Cutter](https://github.com/sinfirst/URL-Cutter): сервис сокращения ссылок: HTTP и gRPC, хранение в памяти, файле или PostgreSQL, асинхронное удаление и свой staticlint.
+- [GophKeeper](https://github.com/sinfirst/GophKeeper): клиент-серверное хранилище паролей, заметок, файлов и данных карт на gRPC с TUI-клиентом и PostgreSQL.
+- [Ref-System](https://github.com/sinfirst/Ref-System): накопительная система лояльности «Гофермарт»: заказы, начисление баллов через внешний сервис и списание, JWT и PostgreSQL.
 
 ## Контакты
 
 Telegram: [@mr_sinfirst](https://t.me/mr_sinfirst)
 
-Сертификат курса «Продвинутый Go-разработчик» (Яндекс Практикум): [RU](https://github.com/sinfirst/sinfirst/blob/main/certificates/yandex-practicum-advanced-go-ru.pdf) · [EN](https://github.com/sinfirst/sinfirst/blob/main/certificates/yandex-practicum-advanced-go-en.pdf) — 382 часа, 18.12.2024 — 03.09.2025
+Сертификат курса «Продвинутый Go-разработчик» (Яндекс Практикум): [RU](https://github.com/sinfirst/sinfirst/blob/main/certificates/yandex-practicum-advanced-go-ru.pdf) · [EN](https://github.com/sinfirst/sinfirst/blob/main/certificates/yandex-practicum-advanced-go-en.pdf), 382 часа, с 18.12.2024 по 03.09.2025
